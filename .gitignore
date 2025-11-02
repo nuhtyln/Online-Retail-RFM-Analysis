@@ -1,0 +1,12 @@
+.venv/
+venv/
+env/
+
+rfm_analysis_result_fixed.csv
+
+__pycache__/
+*.pyc
+*~
+
+.vscode/
+.DS_Store 
