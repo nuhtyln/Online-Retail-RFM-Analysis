@@ -4,7 +4,7 @@ Analisis ini menggunakan model **RFM (Recency, Frequency, Monetary)** untuk meng
 
 ---
 
-##  Ikhtisar Proyek
+##  Tujuan Proyek
 
 Proyek ini bertujuan untuk mengubah data transaksi mentah menjadi wawasan yang dapat ditindaklanjuti dengan melakukan langkah-langkah berikut:
 
@@ -22,6 +22,3 @@ Proyek ini bertujuan untuk mengubah data transaksi mentah menjadi wawasan yang d
 | **Monetary (M)** | Total uang yang telah dihabiskan. | Mengukur nilai pelanggan (value). |
 
 ---
-
-
-pip install pandas matplotlib seaborn
